@@ -26,13 +26,12 @@ npm run build
 ## How to deploy  blockchain, update hardhat.config
 npx hardhat run scripts/deploy.js --network mainnet
 
-Game contract address: 0x5d4c4b84458edB1118A87ccE3D3EA8a6C2F82467
+Game contract address: 
 
-Game Explorer Url: https://ftmscan.com/address/0x5d4c4b84458edb1118a87cce3d3ea8a6c2f82467
+Game Explorer Url: 
+Marketplace contract address: 
 
-Marketplace contract address: 0x55c550e645dAD52867EC3c517448EeA37dc1720B
-
-Marketplace Explorer Url: https://ftmscan.com/token/0x55c550e645dad52867ec3c517448eea37dc1720b
+Marketplace Explorer Url: 
 
 
 
@@ -51,7 +50,7 @@ Chainlink (VRF and Automation)
 
 IPFS/Filecoin (NFT.Storage)
 
-Fantom
+Pego
 
 Sequence Wallet Integration
 
